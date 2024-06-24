@@ -13,7 +13,7 @@ Sections for projects, skills, experience, and contact information<br>
 Interactive elements and animations to enhance user experience
 <h1>Getting Started</h1>
 To view the portfolio website locally or contribute to the project, follow these steps:
-Open in Browser: Navigate to (Portfolio link will be here) to view the portfolio website.
+Open in Browser: Navigate to <a href="https://shankars.netlify.app/">My Portfolio Website</a> to view the portfolio website.
 <h1>Usage</h1>
 Feel free to explore the different sections of the website:<br>
 Skills: Learn about my skills and the technologies I work with.<br>
