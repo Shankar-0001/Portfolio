@@ -22,3 +22,10 @@ Experience: Discover my professional background and experiences.<br>
 Contact: Get in touch with me through the contact section.
 <h1>Contributing</h1>
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions are always welcome!
+
+### Contact
+
+If you have any questions or feedback, please reach out to:
+
+<li>GitHub - @https://github.com/Shankar-0001</li>
+<li>LinkedIn - https://www.linkedin.com/in/shankar-ravidas-2a4171207/</li>
